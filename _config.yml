@@ -1,6 +1,6 @@
 name: Paula Cunniffe
 favicon: null
-layout_spectrum: 0.02024
+layout_spectrum: 0.14163
 typography_spectrum: 0.38483
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#e1d8c7'
+    - '#c0b4a4'
+    - '#efebdf'
+    - '#9f9989'
   brandStrength: 0.07962670247070491
-  lightness: 0.5602823877707124
-  saturation: 0.729972438653931
-  rhythmicContrast: 0.4268654810730368
+  lightness: 0.875
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
