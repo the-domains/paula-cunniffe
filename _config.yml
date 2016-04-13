@@ -1,4 +1,4 @@
-name: Paula Cunniffe
+name: In Between Mountains
 favicon: null
 layout_spectrum: 0.5684
 typography_spectrum: 0.38483
@@ -22,8 +22,8 @@ color:
     - '#f4400b'
     - '#f99826'
     - '#8ba5a6'
-  brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.375
-  rhythmicContrast: 0.5
+  brandStrength: 1
+  lightness: 0.9375
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose: []
