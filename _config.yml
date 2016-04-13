@@ -1,6 +1,6 @@
 name: In Between Mountains
 favicon: null
-layout_spectrum: 0.49518
+layout_spectrum: 0.34296
 typography_spectrum: 0.38483
 title: In Between Mountains
 cta:
@@ -22,8 +22,8 @@ color:
     - '#f4400b'
     - '#f99826'
     - '#8ba5a6'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  brandStrength: 0.8125
+  lightness: 0.75
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
