@@ -4,21 +4,21 @@
         <description><![CDATA[In Between Mountains]]></description>
         <link>https://thegrid.ai/paula-cunniffe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 07:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 21:47:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/paula-cunniffe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d596dfc9-c242-4078-acd7-11423970cbba.jpg">]]></description>
+            <link>https://thegrid.ai/paula-cunniffe/so-this-is-the-beginning-of-this-journey-ive-come-so-far/index.html</link>
+            <guid isPermaLink="false">215568aa-dd2f-4a53-859b-e6de3b78531f</guid>
+            <pubDate>Tue, 30 Aug 2016 21:47:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>There’s a space between the internal and the external. A barrier that exists between the private world of our head, and that of communication with the outside world.</p>]]></description>
             <link>https://thegrid.ai/paula-cunniffe/b1c94615-ce26-471e-bbc0-60d23541f224/index.html</link>
             <guid isPermaLink="false">b1c94615-ce26-471e-bbc0-60d23541f224</guid>
             <pubDate>Wed, 13 Apr 2016 07:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d596dfc9-c242-4078-acd7-11423970cbba.jpg">]]></description>
-            <link>https://thegrid.ai/paula-cunniffe/so-this-is-the-beginning-of-this-journey-ive-come-so-far/index.html</link>
-            <guid isPermaLink="false">215568aa-dd2f-4a53-859b-e6de3b78531f</guid>
-            <pubDate>Sun, 27 Mar 2016 23:44:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
